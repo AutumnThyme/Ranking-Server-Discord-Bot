@@ -1,10 +1,9 @@
 require('dotenv').config();
+require('./config/database').connect();
 const fs = require('node:fs');
 const path = require('node:path');
-const { MongoClient } = require('mongodb');
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
 
-const mongoClient = new MongoClient(process.env.URI);
 
 const client = new Client({
   intents: [
@@ -47,7 +46,7 @@ client.on(Events.InteractionCreate, async interaction => {
   }
 
   try {
-    await command.execute(interaction, mongoClient);
+    await command.execute(interaction);
   }
   catch (error) {
     console.error(error);

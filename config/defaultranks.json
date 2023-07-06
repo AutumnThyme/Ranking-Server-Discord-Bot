@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Bronze [III]",
+      "rp": 0,
+      "rank_image": ""
+    },
+    {
+      "name": "Bronze [II]",
+      "rp": 0,
+      "rank_image": ""
+    },
+    {
+      "name": "Bronze [I]",
+      "rp": 0,
+      "rank_image": ""
+    },
+    {
+      "name": "Silver [III]",
+      "rp": 100,
+      "rank_image": ""
+    },
+    {
+      "name": "Silver [II]",
+      "rp": 100,
+      "rank_image": ""
+    },
+    {
+      "name": "Silver [I]",
+      "rp": 100,
+      "rank_image": ""
+    },
+    {
+      "name": "Gold [III]",
+      "rp": 200,
+      "rank_image": ""
+    },
+    {
+      "name": "Gold [II]",
+      "rp": 200,
+      "rank_image": ""
+    },
+    {
+      "name": "Gold [I]",
+      "rp": 200,
+      "rank_image": ""
+    },
+    {
+      "name": "Platinum [III]",
+      "rp": 300,
+      "rank_image": ""
+    },
+    {
+      "name": "Platinum [II]",
+      "rp": 300,
+      "rank_image": ""
+    },
+    {
+      "name": "Platinum [I]",
+      "rp": 300,
+      "rank_image": ""
+    },
+    {
+      "name": "Diamond [III]",
+      "rp": 400,
+      "rank_image": ""
+    },
+    {
+      "name": "Diamond [II]",
+      "rp": 400,
+      "rank_image": ""
+    },
+    {
+      "name": "Diamond [I]",
+      "rp": 400,
+      "rank_image": ""
+    },
+    {
+      "name": "Master [III]",
+      "rp": 500,
+      "rank_image": ""
+    },
+    {
+      "name": "Master [II]",
+      "rp": 500,
+      "rank_image": ""
+    },
+    {
+      "name": "Master [I]",
+      "rp": 500,
+      "rank_image": ""
+    },
+    {
+      "name": "Master [X]",
+      "rp": 500,
+      "rank_image": ""
+    },
+    {
+      "name": "Grandmaster [III]",
+      "rp": 600,
+      "rank_image": ""
+    },
+    {
+      "name": "Grandmaster [II]",
+      "rp": 600,
+      "rank_image": ""
+    },
+    {
+      "name": "Grandmaster [I]",
+      "rp": 600,
+      "rank_image": ""
+    },
+    {
+        "name": "Grandmaster [X]",
+        "rp": 600,
+        "rank_image": ""
+    }
+]
