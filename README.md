@@ -5,7 +5,7 @@
 ```
 /create <category> <rank> <use_default_ranks> <ranks|optional>
 * if use_default_ranks is true, it will read a default ranks file on the server and
-* populate the ranks from that (Bronze [I|II|II] through Grandmaster [I|II|III|X])
+* populate the ranks from that (Bronze [I|II|III] through Grandmaster [I|II|III|X])
 * otherwise, specify a json object in the form:
 {
   "ranks": [
