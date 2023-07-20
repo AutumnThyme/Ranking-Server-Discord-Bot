@@ -16,7 +16,7 @@ const updateLeaderboard = async (interaction) => {
     const theLessersEmote = ':small_orange_diamond:';
     let leaderboardMessage = `${top5Emote}---------------- Top 5 ----------------${top5Emote}\n`;
 
-    const players = await Player.find({}).sort({ score: -1 }).limit(100).populate('ranks');
+    const players = await Player.find({}).sort({ totalRp: -1 }).limit(100).populate('ranks');
 
     let i = 1;
     for (const player of players) {
